@@ -64,14 +64,17 @@ em strong {
     color: aquamarine;
 }
 
-
-.itens{
-    display: inline;
-}
-
 .beneficios{
     background: #FFFFFF;
     padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itens{
+    margin-bottom: 30px;
+    text-align: right;
 }
 
 .imagembeneficios{
@@ -79,7 +82,7 @@ em strong {
     width: 30%;
     border: #000000;
     border-style: solid;
-    vertical-align: right;
+    margin-left: 5%;
 }
 
 footer{
