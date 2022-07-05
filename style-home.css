@@ -34,7 +34,7 @@
 }
 
 
-#banner{
+.banner{
     width: 100%;
 }
 
@@ -48,7 +48,7 @@
 
 .titulocentralizado{
     text-align: center;
-    font-size: larger;
+    font-size: 2em;
     font-weight: bold;
 }
 
